@@ -1,2 +1,2 @@
 # primeiro-codigo-csharp-dotnet
-Código criado a partir do curso "IDE Instalação e Configuração (Visual Studio)" da DIO
+Curso IDE Instalação e Configuração (Visual Studio) da DIO - Digital Innovation One
