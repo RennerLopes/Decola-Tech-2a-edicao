@@ -16,7 +16,7 @@ O código foi desenvolvido durante o Curso "Construtores, Propriedades, Delegate
 $ git clone https://github.com/RennerLopes/Construtores-Propriedades-Delegates-Eventos-Dotnet
 
 # Entrar no diretório
-$ cd Orientacao-a-Objeto-com-CSharp
+$ cd Construtores-Propriedades-Delegates-Eventos-Dotnet
 
 # Instalar as dependências
 # É necessário ter instalado o .NET
