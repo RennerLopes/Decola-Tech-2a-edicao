@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Infra/Localiza.Frotas.Infra.csproj": {}
+  },
+  "projects": {
+    "/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Domain/Localiza.Frotas.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Domain/Localiza.Frotas.Domain.csproj",
+        "projectName": "Localiza.Frotas.Domain",
+        "projectPath": "/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Domain/Localiza.Frotas.Domain.csproj",
+        "packagesPath": "/home/rennerlopes/.nuget/packages/",
+        "outputPath": "/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/rennerlopes/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Infra/Localiza.Frotas.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Infra/Localiza.Frotas.Infra.csproj",
+        "projectName": "Localiza.Frotas.Infra",
+        "projectPath": "/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Infra/Localiza.Frotas.Infra.csproj",
+        "packagesPath": "/home/rennerlopes/.nuget/packages/",
+        "outputPath": "/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Infra/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/rennerlopes/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Domain/Localiza.Frotas.Domain.csproj": {
+                "projectPath": "/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Domain/Localiza.Frotas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

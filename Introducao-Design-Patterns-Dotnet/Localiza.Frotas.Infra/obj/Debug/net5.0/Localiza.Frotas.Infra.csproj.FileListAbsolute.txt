@@ -1,0 +1,15 @@
+/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Infra/bin/Debug/net5.0/Localiza.Frotas.Infra.deps.json
+/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Infra/bin/Debug/net5.0/Localiza.Frotas.Infra.dll
+/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Infra/bin/Debug/net5.0/ref/Localiza.Frotas.Infra.dll
+/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Infra/bin/Debug/net5.0/Localiza.Frotas.Infra.pdb
+/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Infra/obj/Debug/net5.0/Localiza.Frotas.Infra.csproj.AssemblyReference.cache
+/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Infra/obj/Debug/net5.0/Localiza.Frotas.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Infra/obj/Debug/net5.0/Localiza.Frotas.Infra.AssemblyInfoInputs.cache
+/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Infra/obj/Debug/net5.0/Localiza.Frotas.Infra.AssemblyInfo.cs
+/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Infra/obj/Debug/net5.0/Localiza.Frotas.Infra.csproj.CoreCompileInputs.cache
+/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Infra/obj/Debug/net5.0/Localiza.Frotas.Infra.dll
+/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Infra/obj/Debug/net5.0/ref/Localiza.Frotas.Infra.dll
+/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Infra/obj/Debug/net5.0/Localiza.Frotas.Infra.pdb
+/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Infra/bin/Debug/net5.0/Localiza.Frotas.Domain.dll
+/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Infra/bin/Debug/net5.0/Localiza.Frotas.Domain.pdb
+/home/rennerlopes/Documents/DIO/Introdução a Design Patterns com .NET/Localiza.Frotas.Infra/obj/Debug/net5.0/Localiza.Frotas.Infra.csproj.CopyComplete
